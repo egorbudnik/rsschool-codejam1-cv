@@ -6,6 +6,7 @@ body{
 .pagewrapper{
 	max-width: 1024px;
 	margin: 0 auto;
+	padding: 20px;
 	
 }
 header{
@@ -74,4 +75,7 @@ margin-bottom:30px;
 }
 .section-text__link{
 	color:inherit;
+}
+.section-text__link:hover{
+ font-weight: bold;
 }
