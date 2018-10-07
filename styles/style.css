@@ -1,0 +1,26 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.pagewrapper{
+	max-width: 1024px;
+	margin: 0 auto;
+	
+}
+header{
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+	align-items: center;
+	height:100vh;
+}
+
+.header-name{
+	font-family: 'Michroma', sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.header-wrapper{
+	text-align: center;
+}
